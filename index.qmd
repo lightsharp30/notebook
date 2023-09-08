@@ -1,0 +1,13 @@
+---
+title: "Ipynb"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## hier geht's zum about 
+[about](about.qmd)
+
+## Hier findet sich ein Notebook
+[notebook](plot_2.ipynb)
